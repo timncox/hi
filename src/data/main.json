@@ -1,0 +1,22 @@
+{
+  "site": {
+    "name": "Hi",
+    "tagline": "A tiny test site that says hi.",
+    "description": "A minimal test site. Just saying hi."
+  },
+  "pages": [
+    {
+      "slug": "/",
+      "title": "Hi",
+      "content": "# Hi\n\nThis is a tiny test site.\n\nIt exists to say one thing: **hi**.\n\nThat's it. That's the site."
+    }
+  ],
+  "theme": {
+    "accent": "#B7410E",
+    "mode": "dark",
+    "font": "sans"
+  },
+  "schema": {
+    "type": "WebSite"
+  }
+}
